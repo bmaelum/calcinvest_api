@@ -1,8 +1,5 @@
-# FastAPI Tutorial
-This repo is for learning how to use FastAPI.
-
-## Tutorial
-The code in this tutorial is found in the official documentation for FastAPI: https://fastapi.tiangolo.com/.
+# CalcInvest API
+This is the repo for the CalcInvest API.
 
 ## Getting Started
 ### Requirements
