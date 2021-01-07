@@ -39,8 +39,3 @@ curl --location --request PUT 'localhost:8000/items/2' \
     "price" : 0
 }'
 ```
-
-
-
-
-# calcinvest_api
